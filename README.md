@@ -9,7 +9,7 @@ The Nanodegree's website</a> </p>
 
 
 ### Projects
-- [x] [Project 0: Bay Area Bike Share Analysis]
+- [x] [Project 0: Bay Area Bike Share Analysis](https://github.com/Sally-Ng/DAND-Bay_Area_Bike_Share_Analysis)
 - [x] [Project 1: Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon)
 - [X] [Project 2: Investigate the Titanic Dataset](https://github.com/Sally-Ng/DAND-Investigate_The_Titanic_Dataset)
 - [ ] Project 3: Wrangle OpenStreetMap Data
@@ -26,8 +26,8 @@ The Nanodegree's website</a> </p>
 - Intro to Machine Learning <br />
 - Data Visualization <br />
 - A/B Testing 
-<\br>
-<\br>
+<br />
+<br />
 [Project 0: Bay Area Bike Share Analysis](https://github.com/Sally-Ng/DAND-Bay_Area_Bike_Share_Analysis)
 
 
