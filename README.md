@@ -38,13 +38,13 @@ Used tables and histograms to explore and visualize the Bay Area Bike Share data
 </p>
 <br />
 
-[Project 1Language: Python (pandas, NumPy, Matplotlib, SciPy): Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon) <br />
+[Project 1: Python (pandas, NumPy, Matplotlib, SciPy): Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon) <br />
 Language: Python (pandas, NumPy, Matplotlib, SciPy) </br>
 Analyzed the Stroop effect using descriptive statistics to provide an intuition about the data, 
 and a two-tailed dependent sample t-test to draw a conclusion.
 </br>
 <p align="left">
-  <img src="ttest.JPG" width="500"/>
+  <img src="ttest.JPG" width="550"/>
 </p>
 </br>
 
@@ -54,7 +54,7 @@ Skills: Hypothesis testing, Data visualization, Data Wranggling </br>
 Used descriptive statistics and Chi Sqaure Test for Independence to investigate factors that made people more likely to survive. 
 </br>
 <p align="left">
-  <img src="chis.JPG" width="350"/>
+  <img src="chis.JPG" width="600"/>
 </p>
 </br>
 
@@ -65,6 +65,6 @@ The relationships between the variables have been investigated by computing Pear
 the multiple linear regression.
 </br>
 <p align="left">
-  <img src="scatterplot.JPG" width="500"/>
+  <img src="scatterplot.JPG" width="400"/>
 </p>
 
