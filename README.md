@@ -13,7 +13,7 @@ The Nanodegree's website</a> </p>
 - [x] [Project 1: Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon)
 - [X] [Project 2: Investigate the Titanic Dataset](https://github.com/Sally-Ng/DAND-Investigate_The_Titanic_Dataset)
 - [ ] Project 3: Wrangle OpenStreetMap Data
-- [x] [Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis/new/master?readme=1)
+- [x] [Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis)
 - [ ] Project 5: Identify Fraud from Enron Email
 - [ ] Project 6: Make Effective Data Visualization
 - [ ] Project 7: Design an A/B Test
@@ -58,7 +58,7 @@ Used descriptive statistics and Chi Sqaure Test for Independence to investigate 
 </p>
 </br>
 
-[Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis/new/master?readme=1) <br />
+[Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis) <br />
 Language: R (ggplot2, dplyr, memisc, GGally, gridExtra) </br>
 Used histograms, boxplots, scatter plots and correlation matrix to explore and visualize the White Wine dataset. 
 The relationships between the variables have been investigated by computing Pearson Correlation tests and 
