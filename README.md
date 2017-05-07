@@ -13,7 +13,7 @@ The Nanodegree's website</a> </p>
 - [x] [Project 1: Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon)
 - [X] [Project 2: Investigate the Titanic Dataset](https://github.com/Sally-Ng/DAND-Investigate_The_Titanic_Dataset)
 - [ ] Project 3: Wrangle OpenStreetMap Data
-- [x] Project 4: Explore and Summarize Data
+- [x] Project 4: White Wine Dataset Exploratory Data Analysis
 - [ ] Project 5: Identify Fraud from Enron Email
 - [ ] Project 6: Make Effective Data Visualization
 - [ ] Project 7: Design an A/B Test
