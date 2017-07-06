@@ -69,7 +69,7 @@ the multiple linear regression.
 [Project 6: Exploring the Loan Data from Prosper](https://github.com/Sally-Ng/DANA-Exploring_the_Loan_Data_from_Prosper) </br>
 Sofeware: Tableau </br>
 Skills: Data visualization, Descriptive Statistics </br>
-v  </br>
+Created a data visualization that tells a story and highlights patterns about loan in the loan data set from Prosper using Tableau. </br>
 <p align="left">
   <img src="symbol_map.JPG" width="400"/>
 </p>
