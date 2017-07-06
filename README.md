@@ -29,6 +29,7 @@ The Nanodegree's website</a> </p>
 
 [Project 0: Bay Area Bike Share Analysis](https://github.com/Sally-Ng/DAND-Bay_Area_Bike_Share_Analysis) <br />
 Language: Python (pandas, NumPy, Matplotlib) <br />
+Skills: Data Exploration, Data Visualization </br>
 Used tables and histograms to explore and visualize the Bay Area Bike Share data. 
 <br />
 <p align="left">
@@ -38,6 +39,7 @@ Used tables and histograms to explore and visualize the Bay Area Bike Share data
 
 [Project 1: Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon) <br />
 Language: Python (pandas, NumPy, Matplotlib, SciPy) </br>
+Skills: Hypothesis Testing, Measures of Variability, Data Visualization </br>
 Analyzed the Stroop effect using descriptive statistics to provide an intuition about the data, 
 and a two-tailed dependent sample t-test to draw a conclusion.
 </br>
@@ -48,7 +50,7 @@ and a two-tailed dependent sample t-test to draw a conclusion.
 
 [Project 2: Investigate the Titanic Dataset](https://github.com/Sally-Ng/DAND-Investigate_The_Titanic_Dataset) <br />
 Language: Python (pandas, NumPy, Matplotlib, SciPy, PyLab) </br>
-Skills: Hypothesis testing, Data visualization, Data Wranggling </br>
+Skills: Hypothesis Testing, Data Visualization, Data Wranggling </br>
 Used descriptive statistics and Chi Sqaure Test for Independence to investigate factors that made people more likely to survive. 
 </br>
 <p align="left">
@@ -58,6 +60,7 @@ Used descriptive statistics and Chi Sqaure Test for Independence to investigate 
 
 [Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis) <br />
 Language: R (ggplot2, dplyr, memisc, GGally, gridExtra) </br>
+Skills: Inferential Statistics, Data Visualization </br>
 Used histograms, boxplots, scatter plots and correlation matrix to explore and visualize the White Wine dataset. 
 The relationships between the variables have been investigated by computing Pearson Correlation tests and 
 the multiple linear regression.
@@ -68,7 +71,7 @@ the multiple linear regression.
 
 [Project 6: Exploring the Loan Data from Prosper](https://github.com/Sally-Ng/DANA-Exploring_the_Loan_Data_from_Prosper) </br>
 Sofeware: Tableau </br>
-Skills: Data visualization, Descriptive Statistics </br>
+Skills: Data Visualization, Descriptive Statistics </br>
 Created a data visualization that tells a story and highlights patterns about loan in the loan data set from Prosper using Tableau. </br>
 <p align="left">
   <img src="symbol_map.JPG" width="400"/>
