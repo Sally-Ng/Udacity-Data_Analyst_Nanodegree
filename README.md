@@ -11,12 +11,11 @@ The Nanodegree's website</a> </p>
 ### Projects
 - [x] [Project 0: Bay Area Bike Share Analysis](https://github.com/Sally-Ng/DAND-Bay_Area_Bike_Share_Analysis)
 - [x] [Project 1: Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon)
-- [X] [Project 2: Investigate the Titanic Dataset](https://github.com/Sally-Ng/DAND-Investigate_The_Titanic_Dataset)
-- [ ] Project 3: Wrangle OpenStreetMap Data
+- [x] [Project 2: Investigate the Titanic Dataset](https://github.com/Sally-Ng/DAND-Investigate_The_Titanic_Dataset)
+- [x] Project 3: Wrangle OpenStreetMap Data
 - [x] [Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis)
-- [ ] Project 5: Identify Fraud from Enron Email
-- [ ] Project 6: Make Effective Data Visualization
-- [ ] Project 7: Design an A/B Test
+- [x] Project 5: Identify Fraud from Enron Email
+- [x] Project 6: Make Effective Data Visualization
 
 ### Courses
 - Statistics <br />
@@ -25,7 +24,6 @@ The Nanodegree's website</a> </p>
 - Exploratory Data Analysis <br />
 - Intro to Machine Learning <br />
 - Data Visualization <br />
-- A/B Testing 
 <br />
 <br />
 
