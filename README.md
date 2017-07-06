@@ -15,7 +15,7 @@ The Nanodegree's website</a> </p>
 - [x] Project 3: Wrangle OpenStreetMap Data
 - [x] [Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis)
 - [x] Project 5: Identify Fraud from Enron Email
-- [x] Project 6: Make Effective Data Visualization
+- [x] Project 6: Exploring the Loan Data from Prosper
 
 ### Courses
 - Statistics <br />
