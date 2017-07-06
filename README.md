@@ -73,3 +73,8 @@ Created a data visualization that tells a story and highlights patterns about lo
 <p align="left">
   <img src="symbol_map.JPG" width="400"/>
 </p>
+
+</br>
+<p align="left">
+  <img src="certificate.JPG" width="500"/>
+</p>
