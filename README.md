@@ -15,7 +15,7 @@ The Nanodegree's website</a> </p>
 - [x] Project 3: Wrangle OpenStreetMap Data
 - [x] [Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis)
 - [x] Project 5: Identify Fraud from Enron Email
-- [x] Project 6: Exploring the Loan Data from Prosper
+- [x] Project 6: Exploring the Loan Data from Prosper(https://github.com/Sally-Ng/DANA-Exploring_the_Loan_Data_from_Prosper)
 
 ### Courses
 - Statistics <br />
@@ -66,3 +66,10 @@ the multiple linear regression.
   <img src="scatterplot.JPG" width="400"/>
 </p>
 
+[Project 6: Exploring the Loan Data from Prosper](https://github.com/Sally-Ng/DANA-Exploring_the_Loan_Data_from_Prosper) </br>
+Sofeware: Tableau </br>
+Skills: Data visualization, Descriptive Statistics </br>
+v  </br>
+<p align="left">
+  <img src="symbol_map.JPG" width="400"/>
+</p>
