@@ -36,7 +36,7 @@ Used tables and histograms to explore and visualize the Bay Area Bike Share data
 </p>
 <br />
 
-[Project 1: Python (pandas, NumPy, Matplotlib, SciPy): Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon) <br />
+[Project 1: Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon) <br />
 Language: Python (pandas, NumPy, Matplotlib, SciPy) </br>
 Analyzed the Stroop effect using descriptive statistics to provide an intuition about the data, 
 and a two-tailed dependent sample t-test to draw a conclusion.
