@@ -5,7 +5,7 @@ The Nanodegree's website</a> </p>
 ### This nanodegree covers: 
 - Programming languages: Python, R, SQL, HTML, CSS, Javascript
 - Python packages/ libraries:  NumPy, pandas, Matplotlib, SciPy, scikit-learn
-- Skills: data extraction and wrangling, data visualization, machine learning, statistics, A/B testing 
+- Skills: Data Extraction and Wrangling, Data Visualization, Machine Learning, Statistics
 
 
 ### Projects
@@ -70,8 +70,8 @@ the multiple linear regression.
 </p>
 
 [Project 5: Identify Fraud from Enron Email](https://github.com/Sally-Ng/DAND-Identify_Fraud_from_Enron_Email)
-Language: Python (sklearn, pandas, Matplotlib) </br>
-Skills: Machine learning, Feature Scaling, Feature Selection, Validation </br>
+Language: Python (scikit-learn, pandas, Matplotlib) </br>
+Skills: Machine Learning, Feature Scaling, Feature Selection, Validation </br>
 Built machine learning algorithms to identify Enron Employees who may have committed fraud based on the public Enron financial and email dataset.</br>
 <p align="left">
   <img src="performance.JPG" width="450"/>
