@@ -59,9 +59,13 @@ Used descriptive statistics and Chi Sqaure Test for Independence to investigate 
 </br>
 
 [Project 3: Wrangle OpenStreetMap Data](https://github.com/Sally-Ng/DAND-OpenStreetMap_Data_Exploration)
-
-
-
+Language: Python (pandas, re, sqlite3), SQL </br>
+Skills: Data Wranggling, Data Cleaning, SQL(Database Creating and Data Analysis) </br>
+After the data has been audited, standardized, and converted from XML to CSV format, it was used to create a SQL database for data analysis. 
+<p align="left">
+  <img src="query.JPG" width="400"/>
+</p>
+</br>
 
 [Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis) <br />
 Language: R (ggplot2, dplyr, memisc, GGally, gridExtra) </br>
@@ -73,6 +77,7 @@ the multiple linear regression.
 <p align="left">
   <img src="scatterplot.JPG" width="400"/>
 </p>
+</br>
 
 [Project 5: Identify Fraud from Enron Email](https://github.com/Sally-Ng/DAND-Identify_Fraud_from_Enron_Email)
 Language: Python (scikit-learn, pandas, Matplotlib) </br>
@@ -81,6 +86,7 @@ Built machine learning algorithms to identify Enron Employees who may have commi
 <p align="left">
   <img src="performance.JPG" width="450"/>
 </p>
+</br>
 
 [Project 6: Exploring the Loan Data from Prosper](https://github.com/Sally-Ng/DANA-Exploring_the_Loan_Data_from_Prosper) </br>
 Sofeware: Tableau </br>
@@ -89,8 +95,8 @@ Created a data visualization that tells a story and highlights patterns about lo
 <p align="left">
   <img src="symbol_map.JPG" width="400"/>
 </p>
-
 </br>
+
 <p align="left">
   <img src="certificate.JPG" width="500"/>
 </p>
