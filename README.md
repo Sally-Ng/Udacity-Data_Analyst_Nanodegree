@@ -12,10 +12,10 @@ The Nanodegree's website</a> </p>
 - [x] [Project 0: Bay Area Bike Share Analysis](https://github.com/Sally-Ng/DAND-Bay_Area_Bike_Share_Analysis)
 - [x] [Project 1: Test a Perceptual Phenomenon](https://github.com/Sally-Ng/DAND-Test_a_Perceptual_Phenomenon)
 - [x] [Project 2: Investigate the Titanic Dataset](https://github.com/Sally-Ng/DAND-Investigate_The_Titanic_Dataset)
-- [x] Project 3: Wrangle OpenStreetMap Data
+- [x] [Project 3: Wrangle OpenStreetMap Data]
 - [x] [Project 4: White Wine Dataset Exploratory Data Analysis](https://github.com/Sally-Ng/DAND-White_Wine_Dataset_Exploratory_Data_Analysis)
-- [x] Project 5: Identify Fraud from Enron Email
-- [x] Project 6: Exploring the Loan Data from Prosper(https://github.com/Sally-Ng/DANA-Exploring_the_Loan_Data_from_Prosper)
+- [x] [Project 5: Identify Fraud from Enron Email]
+- [x] [Project 6: Exploring the Loan Data from Prosper](https://github.com/Sally-Ng/DANA-Exploring_the_Loan_Data_from_Prosper)
 
 ### Courses
 - Statistics <br />
