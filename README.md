@@ -69,12 +69,12 @@ the multiple linear regression.
   <img src="scatterplot.JPG" width="400"/>
 </p>
 
-[Project 6: Identify Fraud from Enron Email](https://github.com/Sally-Ng/DAND-Identify_Fraud_from_Enron_Email)
+[Project 5: Identify Fraud from Enron Email](https://github.com/Sally-Ng/DAND-Identify_Fraud_from_Enron_Email)
 Language: Python (sklearn, pandas, Matplotlib) </br>
 Skills: Machine learning, Feature Scaling, Feature Selection, Validation </br>
 Built machine learning algorithms to identify Enron Employees who may have committed fraud based on the public Enron financial and email dataset.</br>
 <p align="left">
-  <img src="performance.JPG" width="500"/>
+  <img src="performance.JPG" width="450"/>
 </p>
 
 [Project 6: Exploring the Loan Data from Prosper](https://github.com/Sally-Ng/DANA-Exploring_the_Loan_Data_from_Prosper) </br>
