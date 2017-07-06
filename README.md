@@ -1,5 +1,6 @@
 # Udacity- Data Analyst Nanodegree
 <p> <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">
+Completed in July, 2017</br>
 The Nanodegree's website</a> </p>
 
 ### This nanodegree covers: 
@@ -58,7 +59,7 @@ Used descriptive statistics and Chi Sqaure Test for Independence to investigate 
 </p>
 </br>
 
-[Project 3: Wrangle OpenStreetMap Data](https://github.com/Sally-Ng/DAND-OpenStreetMap_Data_Exploration)
+[Project 3: Wrangle OpenStreetMap Data](https://github.com/Sally-Ng/DAND-OpenStreetMap_Data_Exploration) </br>
 Language: Python (pandas, re, sqlite3), SQL </br>
 Skills: Data Wranggling, Data Cleaning, SQL(Database Creating and Data Analysis) </br>
 After the data has been audited, standardized, and converted from XML to CSV format, it was used to create a SQL database for data analysis. 
