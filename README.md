@@ -1,6 +1,6 @@
 # Udacity- Data Analyst Nanodegree
-<p> <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">
 Completed in July, 2017</br>
+<p> <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">
 The Nanodegree's website</a> </p>
 
 ### This nanodegree covers: 
